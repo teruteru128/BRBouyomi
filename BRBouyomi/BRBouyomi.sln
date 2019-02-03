@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28527.54
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BRBouyomi", "BRBouyomi.csproj", "{23146DCA-A798-44A9-951B-428A309E1F5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23146DCA-A798-44A9-951B-428A309E1F5F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{23146DCA-A798-44A9-951B-428A309E1F5F}.Debug|Any CPU.Build.0 = Debug|x86
+		{23146DCA-A798-44A9-951B-428A309E1F5F}.Debug|x86.ActiveCfg = Debug|x86
+		{23146DCA-A798-44A9-951B-428A309E1F5F}.Debug|x86.Build.0 = Debug|x86
+		{23146DCA-A798-44A9-951B-428A309E1F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23146DCA-A798-44A9-951B-428A309E1F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23146DCA-A798-44A9-951B-428A309E1F5F}.Release|x86.ActiveCfg = Release|x86
+		{23146DCA-A798-44A9-951B-428A309E1F5F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFCE1C7C-59E7-43D6-8859-AFE79439F888}
+	EndGlobalSection
+EndGlobal
