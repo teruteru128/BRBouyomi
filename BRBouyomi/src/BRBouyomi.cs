@@ -239,7 +239,6 @@ namespace BRBouyomi
 
             // 第一ソートキー：優先度
             // 第ニソートキー：文字数
-            // 並べ替えられてないっぽい
             var replaceTagList = readList.OrderByDescending(x => x.Priority)
                 .ThenByDescending(x => x.BeforeReplace.Length)
                 .ToList();
